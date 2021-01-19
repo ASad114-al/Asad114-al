@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there 👋
+My name is Asad and I am a Junior Frontend Developer with experiences in building web apps with HTML/CSS/SASS as well as Javascript, ReactJs 
